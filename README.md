@@ -3,7 +3,7 @@
 - 🔭 Em transição de carreira para a área de Tecnologia da Informação
 - 🌱 Estudando Java e Javascript
 - 📫 Contate-me no e-mail aosfontes@hotmail.com
-- 😄 Pronouns: ela/dela
+- 👩‍💻 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/anafontessp">
