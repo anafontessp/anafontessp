@@ -2,7 +2,7 @@
 
 - 🔭 Em transição de carreira para a área de Tecnologia da Informação
 - 🌱 Estudando Quality Assurance
-- 📫 Contate-me no e-mail aosfontes@hotmail.com
+- 📫 Contate-me no e-mail cmsanafontes@gmail.com
 - 👩‍💻 Pronouns: ela/dela
 
 <div align="center">
