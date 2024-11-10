@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Ana Fontes SP
 
 - 🔭 Em transição de carreira para a área de Tecnologia da Informação
-- 🌱 Estudando Quality Assurance
+- 🌱 Estudando 
 - 📫 Contate-me no e-mail cmsanafontes@gmail.com
 - 👩‍💻 Pronouns: ela/dela
 
