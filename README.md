@@ -4,7 +4,9 @@
 - 🌱 Estudando 
 - 📫 Brasil - São Paulo - SP
 - 👩‍💻 Pronouns: ela/dela
-- <a href="https://img.icons8.com/?size=100&id=Foy34JcTSeDo&format=png&color=000000"/>
+<div align="left">
+  <img height="180em" src="https://img.icons8.com/?size=100&id=Foy34JcTSeDo&format=png&color=000000"/>
+</div>
 
 
 <div align="center">
