@@ -2,8 +2,10 @@
 
 - 🔭 Em transição de carreira para a área de Tecnologia da Informação
 - 🌱 Estudando 
-- 📫 Contate-me no e-mail cmsanafontes@gmail.com
+- 📫 Brasil - São Paulo - SP
 - 👩‍💻 Pronouns: ela/dela
+- <a href="https://img.icons8.com/?size=100&id=Foy34JcTSeDo&format=png&color=000000"/>
+
 
 <div align="center">
   <a href="https://github.com/anafontessp">
