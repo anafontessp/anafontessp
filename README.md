@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Ana Fontes SP
 
-- 🔭 Em transição de carreira para a área de Tecnologia da Informação
+- 🔭 Em transição de carreira para a área de Tecnologia
 - 🌱 Estudando Java e Angular
 - 📫 Brasil - São Paulo - SP
 - 👩‍💻 Pronouns: ela/dela
